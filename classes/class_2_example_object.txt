@@ -1,0 +1,16 @@
+CLASS:
+folding chair
+
+ATTRIBUTES:
+color: 'Black'
+height: 30
+fold: null
+material: 'Plastic'
+
+METHODS:
+change_color: 'Brown'
+raise_height: (height + 2)
+lower_height (height - 2)
+verify_material: 'Plastic'
+re_fold: TRUE
+un_fold: FALSE
