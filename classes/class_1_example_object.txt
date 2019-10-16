@@ -1,0 +1,16 @@
+INSTANCE:
+Sectioned table
+
+ATTRIBUTES:
+color: 'Brown'
+height: 76
+seatCapacity: 8
+material: 'Wood'
+
+METHODS
+change_color: 'Black'
+raise_height: (height + 3)
+lower_height: (height - 3)
+verify_material: 'Wood'
+reduce_seatCapacity: (seatCapacity - 1)
+increase_seatCapacity: (seatCapacity + 1)
