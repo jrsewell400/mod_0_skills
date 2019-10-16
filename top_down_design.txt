@@ -1,0 +1,62 @@
+HOW TO BECOME A TURING STUDENT
+
+1. Decide you want to learn how to code
+2. Go to the website turing.io
+  2.1 Locate computer
+    IF LAPTOP
+      2.1.1 Pick up laptop
+      2.1.2 Sit down wherever is convenient
+      2.1.3 Open laptop lid
+      2.1.4 Press POWER ON button on laptop
+    IF DESKTOP
+      2.1.1 Sit at desk where desktop is located
+      2.1.2 Press POWER ON button on desktop tower
+      2.1.3 Press POWER ON button on desktop monitor
+  2.2 Enter password to log in
+    IF LAPTOP
+      2.2.1 Use touchpad to navigate to password entry field on screen
+      2.2.2 Enter in password correctly using keys on keyboard
+    IF DESKTOP
+      2.2.1 Use mouse to navigate to password entry field on screen
+      2.2.2 Enter in password correctly using keys on keyboard
+  2.3 Open Google Chrome
+    IF LAPTOP
+      2.3.1 Use touchpad to hover over the Google Chrome icon
+      2.3.2 Double-tap touch pad to open Google Chrome
+    IF DESKTOP
+      2.3.1 Use mouse to hover over the Google Chrome icon
+      2.3.2 Double-click the left mouse button to open Google Chrome
+  2.4 Use keyboard shortcut to highlight hyperlink bar homepage text
+    2.4.1 Hold down Command
+    2.4.2 Stike the 'L' keys
+  2.5 Access the website
+    2.5.1 Use keyboard keys to type in turing.io
+      2.5.1.1 press 't' key
+      2.5.1.2 press 'u' key
+      2.5.1.3 press 'r' key
+      2.5.1.4 press 'i' key
+      2.5.1.5 press 'n' key
+      2.5.1.6 press 'g' key
+      2.5.1.7 press '.' key
+      2.5.1.8 press 'i' key
+      2.5.1.9 press 'o' key
+    2.5.2 Have Google Chrome take note of this change and access site
+      IF MAC
+        2.5.2.1 Hit the 'Return' key
+      IF PC
+        2.5.2.1 Hit the 'Enter' key
+3. On turing.io landing page, access info contained in 'Programs' hyperlink
+  3.1 Use navigation device to hover over 'Programs' hyperlink
+  3.2 Use navigation device to 'click' the hyperlink
+4. Decide on the program you want to purse
+5. Apply for your chosen program
+  IF FEE
+    5.1 Click 'Apply Now' under FEE heading
+  IF BEE
+    5.1 Click 'Apply Now' under BEE heading
+6. Read the information and watch the video
+7. Click 'Apply Now'
+8. Register with Turing through GitHub or Facebook
+9. Pass the interview and assessment
+
+// DISCLAIMER:  Did not break down every single step and sub-step due to time.  Hopefully this is enough to demonstrate my understanding of top down design!
