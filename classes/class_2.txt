@@ -1,0 +1,16 @@
+CLASS:
+chair
+
+ATTRIBUTES:
+color (string)           // color of the chair
+height (float)           // height of the chair
+fold (boolean)           // is the chair folded?
+material (string)        // material chair is made out of
+
+METHODS:
+change_color (changes the chair's color)
+raise_height (raises the chair's height)
+lower_height (lowers the chair's height)
+verify_material (returns the type of material the chair is made out of)
+re_fold (folds chair into storage state)
+un_fold (folds chair into a sitting state)
